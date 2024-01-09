@@ -1,0 +1,38 @@
+.decoration {
+    font-size: 20px; 
+    text-align: center;}
+  .decoration1{
+    font-size:40px;
+     text-align: center;
+     letter-spacing: 1.2em; 
+     text-shadow: 2px 3px 3px orange;
+     border-bottom: solid 3px rgb(115, 115, 114);}
+  .decoration2{
+    font-size: 2rem;
+     color:rgb(255, 192, 203);
+     text-align: center; }
+  .decoration3{
+    font-size: 2rem; 
+    color: skyblue; 
+    text-align: center;}
+  body {
+    font-family: "Arial", "Meiryo", sans-serif;
+  }
+  .google-fonts {
+  
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  span{
+    color: skyblue;
+  }
+  span2{color: rgb(255, 192, 203);}
+
+  
+  #parent p {
+    font-weight: bold;
+  }
+  
+
+
+  
+  
